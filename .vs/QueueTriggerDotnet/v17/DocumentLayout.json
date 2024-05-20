@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\QueueTriggerDotnet\\",
+  "WorkspaceRootPath": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\DotNet6QueueTrigger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\queuetriggerdotnet\\queuetriggerdotnet\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\dotnet6queuetrigger\\queuetriggerdotnet\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|solutionrelative:queuetriggerdotnet\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\queuetriggerdotnet\\queuetriggerdotnet\\queuetriggerdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|solutionrelative:queuetriggerdotnet\\queuetriggerdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\queuetriggerdotnet\\queuetriggerdotnet\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|c:\\users\\jesusadmin\\documents\\repros\\dotnetfunctionapps\\dotnet6queuetrigger\\queuetriggerdotnet\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AD3D7E24-1940-4577-AF4C-DABDEC59AB97}|QueueTriggerDotnet\\QueueTriggerDotnet.csproj|solutionrelative:queuetriggerdotnet\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -22,43 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 226,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\QueueTriggerDotnet\\QueueTriggerDotnet\\local.settings.json",
+              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\DotNet6QueueTrigger\\QueueTriggerDotnet\\local.settings.json",
               "RelativeDocumentMoniker": "QueueTriggerDotnet\\local.settings.json",
-              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\QueueTriggerDotnet\\QueueTriggerDotnet\\local.settings.json",
+              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\DotNet6QueueTrigger\\QueueTriggerDotnet\\local.settings.json",
               "RelativeToolTip": "QueueTriggerDotnet\\local.settings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-20T16:04:46.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QueueTriggerDotnet",
-              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\QueueTriggerDotnet\\QueueTriggerDotnet\\QueueTriggerDotnet.csproj",
-              "RelativeDocumentMoniker": "QueueTriggerDotnet\\QueueTriggerDotnet.csproj",
-              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\QueueTriggerDotnet\\QueueTriggerDotnet\\QueueTriggerDotnet.csproj",
-              "RelativeToolTip": "QueueTriggerDotnet\\QueueTriggerDotnet.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-20T15:45:30.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\QueueTriggerDotnet\\QueueTriggerDotnet\\Function1.cs",
+              "DocumentMoniker": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\DotNet6QueueTrigger\\QueueTriggerDotnet\\Function1.cs",
               "RelativeDocumentMoniker": "QueueTriggerDotnet\\Function1.cs",
-              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\QueueTriggerDotnet\\QueueTriggerDotnet\\Function1.cs",
+              "ToolTip": "C:\\Users\\JesusAdmin\\Documents\\Repros\\DotNetFunctionApps\\DotNet6QueueTrigger\\QueueTriggerDotnet\\Function1.cs",
               "RelativeToolTip": "QueueTriggerDotnet\\Function1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCkAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T15:44:50.647Z",
               "EditorCaption": ""
